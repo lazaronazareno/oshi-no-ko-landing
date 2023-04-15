@@ -22,7 +22,7 @@ export default function Music () {
       <Title title='Music' special />
       <div className='music_content'>
         <div className='music_video_container'>
-          <img src='../src/assets/tv_border.png' alt='tv-border' />
+          <img src='https://i.ibb.co/sVpC29j/tv-border.png' alt='tv-border' />
           <ReactPlayer
             width='95%'
             height='16.6rem'

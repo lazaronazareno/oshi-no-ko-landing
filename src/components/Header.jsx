@@ -2,7 +2,7 @@ export default function Header () {
   return (
     <header>
       <a href='#home'>
-        <img src='../src/assets/logo.png' alt='logo' />
+        <img src='https://i.ibb.co/WD3G1LX/Oshi-no-Ko-Logo.png' alt='logo' />
       </a>
       <nav>
         <ul>

@@ -14,7 +14,9 @@ export default function Home () {
           loop
         />
         <div className='video-overlay'>
-          <img src='./src/assets/logo.png' alt='Oshi no Ko Logo' />
+          <img
+            src='https://i.ibb.co/WD3G1LX/Oshi-no-Ko-Logo.png' alt='Oshi no Ko Logo'
+          />
           <a href='https://www.hidive.com/tv/oshi-no-ko' target='_blank' rel='noopener noreferrer'>
             <button type='button' className='button'>Watch Now!</button>
           </a>

@@ -10,7 +10,7 @@ export default function Characters () {
     fetch('https://oshi-no-ko-fanpage.netlify.app/characters')
       .then(res => res.json())
       .then(data => {
-        setData(data.characters)
+        setData(data)
       })
   }, [])
 
