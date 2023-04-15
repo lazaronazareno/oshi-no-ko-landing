@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/characters"
+to = "/.netlify/functions/getData"
+status = 200
